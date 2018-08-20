@@ -1,5 +1,7 @@
-DreamPie - The Python shell you've always dreamed about!
-========================================================
+# Oryginal Version
+
+### DreamPie - The Python shell you've always dreamed about!
+
 
 DreamPie is a Python shell which is designed to be reliable and fun. It is licensed under GPLv3.
 
@@ -27,8 +29,7 @@ You can give as it an argument with the name of the interpreter:
     ./dreampie /path/to/pypy
 
 
-My Modifications
-================
+# My Modifications
 
 Option --title to set window's title (ie. when you run different interpreters)
 
