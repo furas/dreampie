@@ -1,4 +1,4 @@
-# Oryginal Version
+# Oryginal Version 1.3 (cloned 2018.08.20)
 
 ### DreamPie - The Python shell you've always dreamed about!
 
@@ -31,5 +31,5 @@ You can give as it an argument with the name of the interpreter:
 
 # My Modifications
 
-Option --title to set window's title (ie. when you run different interpreters)
+Option `--title` to set window's title (ie. when you run different interpreters)
 
