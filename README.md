@@ -25,3 +25,10 @@ You can give as it an argument with the name of the interpreter:
 
     ./dreampie python3
     ./dreampie /path/to/pypy
+
+
+My Modifications
+================
+
+Option --title to set window's title (ie. when you run different interpreters)
+
